@@ -1,0 +1,15 @@
+tp3
+-Listar operaciones un print
+-Camino más barato y camino más rápido (★) dijtrak el peso depende✓✓
+-Camino con menor cantidad de escalas (★) bfs✓✓
+-Betweeness Centrality (★★★)✓✓
+-Betweeness Centrality aproximada (★)✓?✓
+-Pagerank (★★)✓✓
+-Optimización de rutas para nueva aerolínea (★★) arbol de tendido minimo✓
+-Viaje de N lugares (★★★) fuerza bruta con dfs✓
+-Recorrer el mundo, de forma óptima (★★★) dfs pero en vez de pila evaluo si es mejor volver para atras o pasar por ese nodo ya visitado?
+-Recorrer el mundo, de forma aproximada (★) ni idea
+-Itinerario cultural (★★)✓✓
+-Terminar el main 
+-Todo lo que no tenga ✓✓
+-Adaptar si es necesario alguno de los ✓✓ con el sistema de los grafos/diccionario implementados
